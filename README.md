@@ -1,1 +1,3 @@
-Topics for machine learning
+# Topics for Machine Learning Quals
+
++ Neural Networks
