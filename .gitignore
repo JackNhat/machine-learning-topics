@@ -3,7 +3,7 @@
 ### Example user template
 
 # IntelliJ project files
-.
+.gitignore
 *.iml
 out
 gen
