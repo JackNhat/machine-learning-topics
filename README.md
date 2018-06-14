@@ -1,3 +1,3 @@
-# Topics for Machine Learning Quals
+# Machine Learning Real-World Case Studies
 
-+ Neural Networks
++ Analyzing Bike Sharing Trends
