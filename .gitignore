@@ -8,3 +8,5 @@
 .idea
 out
 gen
+.idea/inspectionProfiles/
+Movies Sentiment Analysis/models/__pycache__/
