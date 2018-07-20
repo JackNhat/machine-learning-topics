@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="609a4731-2bad-49c0-848e-0e585d6573ae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_model_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py" afterDir="false" />
-    </list>
+    <list default="true" id="609a4731-2bad-49c0-848e-0e585d6573ae" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +36,8 @@
       <file leaf-file-name="topic_modeling.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+            <state relative-caret-position="272">
+              <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -383,21 +378,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-4" width="1301" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.47326416" side_tool="true" weight="0.3978159" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67917" visible="true" weight="0.27925116" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6783719" weight="0.27925116" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.55481726" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.47326416" side_tool="true" weight="0.3978159" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14924182" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.3216281" side_tool="true" visible="true" weight="0.27925116" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14924182" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32960895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.52673584" weight="0.3978159" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.52593774" weight="0.3978159" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -871,8 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+        <state relative-caret-position="272">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
