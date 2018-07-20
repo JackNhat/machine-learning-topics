@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="609a4731-2bad-49c0-848e-0e585d6573ae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/adv_dnn_lstm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_glove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_model_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,17 +23,62 @@
     <SUITE FILE_PATH="coverage/practical_machine_learning$decision_tree_regression.coverage" NAME="decision_tree_regression Coverage Results" MODIFIED="1529915637567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bike Sharing/modeling/decision_tree_regression" />
     <SUITE FILE_PATH="coverage/practical_machine_learning$unsupervised_lexicon_based_models.coverage" NAME="unsupervised_lexicon-based_models Coverage Results" MODIFIED="1531294543365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Movies Sentiment Analysis/models" />
     <SUITE FILE_PATH="coverage/practical_machine_learning$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1529552207954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bike Sharing/modeling" />
-    <SUITE FILE_PATH="coverage/practical_machine_learning$interpreting_predictions.coverage" NAME="interpreting_predictions Coverage Results" MODIFIED="1532074504777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Movies Sentiment Analysis/analyze" />
+    <SUITE FILE_PATH="coverage/practical_machine_learning$interpreting_predictions.coverage" NAME="interpreting_predictions Coverage Results" MODIFIED="1532078563064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Movies Sentiment Analysis/analyze" />
     <SUITE FILE_PATH="coverage/practical_machine_learning$preprocessing.coverage" NAME="preprocessing Coverage Results" MODIFIED="1530593642873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Movies Sentiment Analysis/data" />
     <SUITE FILE_PATH="coverage/practical_machine_learning$keras_model.coverage" NAME="keras_model Coverage Results" MODIFIED="1531990669609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="interpreting_predictions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interpreting_predictions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topic_modeling.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dnn_model_glove.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_glove.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1244">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentiments_analyze.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/supervised/sentiments_analyze.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-156">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dnn_model_word2vec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_word2vec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-340">
+              <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -89,6 +133,8 @@
         <option value="$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_glove.py" />
         <option value="$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/adv_dnn_lstm.py" />
         <option value="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py" />
+        <option value="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_model_utils.py" />
+        <option value="$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py" />
       </list>
     </option>
   </component>
@@ -133,6 +179,12 @@
               <item name="practical-machine-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="practical-machine-learning" type="462c0819:PsiDirectoryNode" />
               <item name="Movies Sentiment Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="analyze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practical-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practical-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Movies Sentiment Analysis" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,6 +207,13 @@
               <item name="models" type="462c0819:PsiDirectoryNode" />
               <item name="supervised" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practical-machine-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practical-machine-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Movies Sentiment Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="unsupervised" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,7 +226,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.buildout.BuildoutModulesConfigurable" />
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySupportQtDebugging" value="false" />
@@ -324,20 +383,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-4" width="1301" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.47326416" side_tool="true" weight="0.3978159" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67917" weight="0.27925116" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67917" visible="true" weight="0.27925116" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.55481726" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.32083002" side_tool="true" weight="0.27925116" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1660016" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.47326416" side_tool="true" weight="0.3978159" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14924182" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32960895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.52673584" visible="true" weight="0.3978159" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.52673584" weight="0.3978159" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,19 +439,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
-          <line>29</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
-          <line>26</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="35" />
+      <option name="time" value="36" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -444,26 +492,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/unsupervised/sentiwordnet_lexicon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/unsupervised/lexicon_based.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/unsupervised/model_evaluation_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -747,16 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/unsupervised/lexicon_based.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/unsupervised/sentiwordnet_lexicon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -787,10 +805,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/supervised/sentiments_analyze.py">
+    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_glove.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-296">
-          <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="61" />
+        <state relative-caret-position="-1244">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
@@ -799,38 +817,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_word2vec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        <state relative-caret-position="-340">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/dnn_model_glove.py">
+    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/supervised/sentiments_analyze.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="61" />
+        <state relative-caret-position="-156">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/adv_dnn_lstm.py">
+    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/unsupervised/lexicon_based.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="20" column="56" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="56" />
+        <state relative-caret-position="2">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/interpreting_predictions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/models/deep_learning/adv_dnn_lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_model_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movies Sentiment Analysis/analyze/topic_modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
