@@ -38,6 +38,5 @@ gen
 /out/
 
 # mpeltonen/sbt-idea plugin
-.idea_modules/
-
-Movies Sentiment Analysis/models/__pycache__/
+/Analyzing Music Trends and Recommendations/track_metadata.db
+/Analyzing Music Trends and Recommendations/train_triplets.txt
